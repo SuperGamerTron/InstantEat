@@ -9,4 +9,4 @@ Can be toggled with /instanteat
 Every player needs to have the mod if playing multiplayer
 
 # Manual Installation
-Extract the archive and put InstantEat.dll into the BepInEx plugins folder
+Extract the archive and put the InstantEat folder or InstantEat.dll into the BepInEx plugins folder
