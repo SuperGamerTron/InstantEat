@@ -1,3 +1,4 @@
+![InstantEat](https://user-images.githubusercontent.com/45374546/124330657-1ff34980-db4b-11eb-9aae-fdc8495c46e6.png)
 # InstantEat
 
 Allows you to instantly eat any food
