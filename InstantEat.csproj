@@ -21,7 +21,7 @@
       <HintPath>..\Libraries\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
-      <HintPath>..\MuckMod\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll</HintPath>
+      <HintPath>..\Libraries\UnityEngine.AudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\Libraries\UnityEngine.CoreModule.dll</HintPath>
@@ -30,7 +30,7 @@
       <HintPath>..\Libraries\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule">
-      <HintPath>..\MuckMod\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>..\Libraries\UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>..\Libraries\UnityEngine.UI.dll</HintPath>
